@@ -1,0 +1,14 @@
+C:\Users\dchuv\OneDrive\Desktop\repos\MethodsExercise\MethodsExercise\bin\Debug\netcoreapp3.1\MethodsExercise.exe
+C:\Users\dchuv\OneDrive\Desktop\repos\MethodsExercise\MethodsExercise\bin\Debug\netcoreapp3.1\MethodsExercise.deps.json
+C:\Users\dchuv\OneDrive\Desktop\repos\MethodsExercise\MethodsExercise\bin\Debug\netcoreapp3.1\MethodsExercise.runtimeconfig.json
+C:\Users\dchuv\OneDrive\Desktop\repos\MethodsExercise\MethodsExercise\bin\Debug\netcoreapp3.1\MethodsExercise.runtimeconfig.dev.json
+C:\Users\dchuv\OneDrive\Desktop\repos\MethodsExercise\MethodsExercise\bin\Debug\netcoreapp3.1\MethodsExercise.dll
+C:\Users\dchuv\OneDrive\Desktop\repos\MethodsExercise\MethodsExercise\bin\Debug\netcoreapp3.1\MethodsExercise.pdb
+C:\Users\dchuv\OneDrive\Desktop\repos\MethodsExercise\MethodsExercise\obj\Debug\netcoreapp3.1\MethodsExercise.csproj.AssemblyReference.cache
+C:\Users\dchuv\OneDrive\Desktop\repos\MethodsExercise\MethodsExercise\obj\Debug\netcoreapp3.1\MethodsExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dchuv\OneDrive\Desktop\repos\MethodsExercise\MethodsExercise\obj\Debug\netcoreapp3.1\MethodsExercise.AssemblyInfoInputs.cache
+C:\Users\dchuv\OneDrive\Desktop\repos\MethodsExercise\MethodsExercise\obj\Debug\netcoreapp3.1\MethodsExercise.AssemblyInfo.cs
+C:\Users\dchuv\OneDrive\Desktop\repos\MethodsExercise\MethodsExercise\obj\Debug\netcoreapp3.1\MethodsExercise.csproj.CoreCompileInputs.cache
+C:\Users\dchuv\OneDrive\Desktop\repos\MethodsExercise\MethodsExercise\obj\Debug\netcoreapp3.1\MethodsExercise.dll
+C:\Users\dchuv\OneDrive\Desktop\repos\MethodsExercise\MethodsExercise\obj\Debug\netcoreapp3.1\MethodsExercise.pdb
+C:\Users\dchuv\OneDrive\Desktop\repos\MethodsExercise\MethodsExercise\obj\Debug\netcoreapp3.1\MethodsExercise.genruntimeconfig.cache
